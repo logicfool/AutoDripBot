@@ -4,7 +4,7 @@ Auto Claim and Auto Compound on a periodic interval at Drip Network
 
 The Bot helps you to auto claim or auto compound on the **DRIP** Network over BSC chain.
 
-##Usage
+## Usage
 
 Have [Python](https://www.python.org/downloads/) installed 
 
